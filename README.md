@@ -152,11 +152,9 @@ You can also serve the tracking script on any other webpage by including:
 
 - Click Coordinates: clientX/Y are sent relative to the viewport. A production heatmap would need to account for page scroll and element positions.
 
-- Event Batching: Events are sent one by one. For high traffic, consider batching or using sendBeacon for unload events.
+- Event Batching: Events are sent one by one. For high traffic, we can consider batching or using sendBeacon for unload events.
 
-- No Authentication: The app does not include user auth – it’s a demo.
-
-- Heatmap Grid: The grid size is fixed (800x600) – in reality, you’d match the page’s viewport size.
+- Heatmap Grid: The grid size is fixed (800x600) – in reality, we would match the page’s viewport size.
 
 ## 🚀 Deployment
 
