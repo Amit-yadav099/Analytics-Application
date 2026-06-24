@@ -8,7 +8,7 @@ A full‑stack web application that tracks user interactions (page views & click
 
 Here is the URL of webApp: https://analytics-application.onrender.com/
 
-Live Url of the demo website: https://analytics-application.onrender.com/demo.html
+Live URL of the demo website: https://analytics-application.onrender.com/demo.html
 
 <br>
 
@@ -35,6 +35,13 @@ Live Url of the demo website: https://analytics-application.onrender.com/demo.ht
 - Sessiosn list
 
  <img src="./frontend/public/sessions.png" alt="file attachments">
+
+
+<br>
+
+-  Demo Page
+
+ <img src="./frontend/public/demoPage.png" alt="file Demo Page">
 
 
 ## 🛠 Tech Stack
